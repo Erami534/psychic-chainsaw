@@ -1,0 +1,11 @@
+//Antonio, chapter 1
+
+public class Main {
+  
+  public static void main(String args[]){
+    
+    System.out.println("Now Playing:Hotel California by Eagles ");
+    System.out.println("On a dark desert highway, cool wind in my hair, warm smell of colitas, rising up through thr air");
+    
+  }
+}
